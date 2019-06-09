@@ -1,0 +1,55 @@
+[{
+        "id": 1,
+        "name": "Cartman",
+        "image": "./Images/Cartman",
+        "Already clicked": "false"
+    },
+    {
+        "id": 2,
+        "name": "Chef",
+        "image": "./Images/Chef",
+        "Already clicked": "false"
+    },
+    {
+        "id": 3,
+        "name": "Clyde",
+        "image": "./Images/Clyde",
+        "Already clicked": "false"
+    },
+    {
+        "id": 4,
+        "name": "Jimmy",
+        "image": "./Images/Jimmy",
+        "Already clicked": "false"
+    },
+    {
+        "id": 5,
+        "name": "Kenny",
+        "image": "./Images/Kenny",
+        "Already clicked": "false"
+    },
+    {
+        "id": 6,
+        "name": "Cartman",
+        "image": "./Images/Cartman",
+        "Already clicked": "false"
+    },
+    {
+        "id": 7,
+        "name": "Kyle",
+        "image": "./Images/Kyle",
+        "Already clicked": "false"
+    },
+    {
+        "id": 8,
+        "name": "Timmy",
+        "image": "./Images/Timmy",
+        "Already clicked": "false"
+    },
+    {
+        "id": 8,
+        "name": "Wendy",
+        "image": "./Images/Wendy",
+        "Already clicked": "false"
+    }
+]
