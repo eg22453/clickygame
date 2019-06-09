@@ -1,7 +1,11 @@
 
-.img-container {
-  height: 30%;
-  width: 30%;
-  background:#6CADDC;
+img{
+  height: 200px;
+  width: 200px;
+  background: blue;
+  margin: 1%;
+  float: left;
 }
+
+
 

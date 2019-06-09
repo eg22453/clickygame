@@ -7,41 +7,36 @@
     {
         "id": 2,
         "name": "Chef",
-        "image": "./Images/Chef"
+        "image": "./Images/Chef.png"
     },
     {
         "id": 3,
         "name": "Clyde",
-        "image": "./Images/Clyde"
+        "image": "./Images/Clyde.png"
     },
     {
         "id": 4,
         "name": "Jimmy",
-        "image": "./Images/Jimmy"
+        "image": "./Images/Jimmy.png"
     },
     {
         "id": 5,
         "name": "Kenny",
-        "image": "./Images/Kenny"
-    },
-    {
-        "id": 6,
-        "name": "Cartman",
-        "image": "./Images/Cartman"
+        "image": "./Images/Kenny.png"
     },
     {
         "id": 7,
         "name": "Kyle",
-        "image": "./Images/Kyle"
+        "image": "./Images/Kyle.png"
     },
     {
         "id": 8,
         "name": "Timmy",
-        "image": "./Images/Timmy"
+        "image": "./Images/Timmy.png"
     },
     {
         "id": 8,
-        "name": "Wendy",
-        "image": "./Images/Wendy"
+        "name": "Butters",
+        "image": "./Images/Butters.png"
     }
 ]
