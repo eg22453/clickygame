@@ -1,57 +1,68 @@
 [{
         "id": 1,
         "name": "Cartman",
-        "image": "./Images/Cartman.png"
+        "image": "./Images/Cartman.png",
+        "clickcount": 0
       
     },
     {
         "id": 2,
         "name": "Chef",
-        "image": "./Images/Chef.png"
+        "image": "./Images/Chef.png",
+        "clickcount": 0
     },
     {
         "id": 3,
         "name": "Clyde",
-        "image": "./Images/Clyde.png"
+        "image": "./Images/Clyde.png",
+        "clickcount": 0
     },
     {
         "id": 4,
         "name": "Jimmy",
-        "image": "./Images/Jimmy.png"
+        "image": "./Images/Jimmy.png",
+        "clickcount": 0
     },
     {
         "id": 5,
         "name": "Kenny",
-        "image": "./Images/Kenny.png"
+        "image": "./Images/Kenny.png",
+        "clickcount": 0
     },
     {
         "id": 7,
         "name": "Kyle",
-        "image": "./Images/Kyle.png"
+        "image": "./Images/Kyle.png",
+        "clickcount": 0
     },
     {
         "id": 8,
         "name": "Timmy",
-        "image": "./Images/Timmy.png"
+        "image": "./Images/Timmy.png",
+        "clickcount": 0
     },
     {
         "id": 9,
         "name": "copcartman",
-        "image": "./Images/copcartman.png"
+        "image": "./Images/copcartman.png",
+        "clickcount": 0
     },
     {
         "id": 10,
         "name": "token",
-        "image": "./Images/token.png"
+        "image": "./Images/token.png",
+        "clickcount": 0
     },
     {
         "id": 11,
         "name": "mackey",
-        "image": "./Images/mackey.png"
+        "image": "./Images/mackey.png",
+        "clickcount": 0
     },
     {
         "id": 12,
         "name": "Cartmannoshirt",
-        "image": "./Images/Cartmannoshirt.png"
+        "image": "./Images/Cartmannoshirt.png",
+        "clickcount": 0
     }
 ]
