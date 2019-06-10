@@ -1,4 +1,5 @@
 import React from "react";
+import ReactDOM from "react-dom";
 import "./style.css";
 
 //below is basic code for getting an image to spawn from the props
@@ -13,18 +14,14 @@ import "./style.css";
 
 
 class CharacterCard extends React.Component{
-  state ={
-    myclicks: 1
-  };
-
-  increaseClick =()=>{
-    this.setState({myclicks: this.state.myclicks +1});
-    console.log(this.state.myclicks)
-  };
+  // increaseClick=()=>{ 
+  //   this.setState({myclicks: this.state.myclicks +1});
+  //   ReactDOM.render(this.state.myclicks, document.getElementById("currentscore"));
+  // };
   render(){
     return(
         <div className="img-container">
-        <img id ="char" src={this.props.image} alt={this.props.name} onClick ={this.increaseClick}/>
+        <img id ="char" src={this.props.image} alt={this.props.name}/>
       </div>
     );
   }

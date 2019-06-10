@@ -35,8 +35,23 @@
         "image": "./Images/Timmy.png"
     },
     {
-        "id": 8,
-        "name": "Butters",
-        "image": "./Images/Butters.png"
+        "id": 9,
+        "name": "copcartman",
+        "image": "./Images/copcartman.png"
+    },
+    {
+        "id": 10,
+        "name": "token",
+        "image": "./Images/token.png"
+    },
+    {
+        "id": 11,
+        "name": "mackey",
+        "image": "./Images/mackey.png"
+    },
+    {
+        "id": 12,
+        "name": "Cartmannoshirt",
+        "image": "./Images/Cartmannoshirt.png"
     }
 ]
