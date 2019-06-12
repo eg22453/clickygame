@@ -21,7 +21,7 @@ class CharacterCard extends React.Component{
   render(){
     return(
         <div className="img-container">
-        <img id ="char" src={this.props.image} alt={this.props.name}/>
+        <img src={this.props.image} alt={this.props.name} onClick={() => this.props.manageclicks(this.props.id)} />
       </div>
     );
   }
