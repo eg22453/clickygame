@@ -9,10 +9,8 @@ This project was made in order to practice React.js and understand how component
 state is changed.
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/8785431/58362731-3143d500-7e60-11e9-9c41-1e4f5b22b8c1.png)
-
-
-![image](https://user-images.githubusercontent.com/8785431/58362770-d5c61700-7e60-11e9-8995-116e4d39c629.png)
+![click1](https://user-images.githubusercontent.com/8785431/61792014-4c3fb080-ade1-11e9-95b6-cd339d7f1b62.png)
+![click2](https://user-images.githubusercontent.com/8785431/61792016-4ea20a80-ade1-11e9-98ff-a2edf3a0a66e.png)
 
 
 ## Tech/framework used
